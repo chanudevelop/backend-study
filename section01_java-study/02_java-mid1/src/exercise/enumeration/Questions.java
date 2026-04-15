@@ -24,4 +24,20 @@ public class Questions {
      * - 예를 들어 GUEST 등급은 메인 화면ㅇ만 접근할 수 있고, ADMIN 등급은 모든 화면에 접근할 수 있다.
      *
      */
+
+    /**
+     * 문제와 풀이2
+     * HttpStatus 열거형을 만들어라
+     * HTTP 상태코드 정의
+     * - OK
+     *  - code: 200, message: "OK"
+     * - BAD_REQUEST
+     *  - code: 400, message: "Bad Request
+     * - NOT_FOUND
+     *  - code: 404, message: "Not Found"
+     *  - INTERNAL_SERVER_ERROR
+     *   - code: 500, message: "Internal Server Error"
+     *
+     *  HttpStatusMain 코드와 실행결과를 참고해서 HtttpStatus 완성하라
+     *      */
 }
